@@ -4,7 +4,7 @@
 
 In this project, the eyes will track and follow in unison the cursor anywhere on the browser window. The eyes were created with CSS and JavaScript was used to track the cursor.
 
-<img src="https://static1.squarespace.com/static/5b75fc7ea9e028d726dbaaa5/t/6243b0c62605c103bf47342e/1648603334072/eyes.png" width='300'/>
+<img src="https://static1.squarespace.com/static/5b75fc7ea9e028d726dbaaa5/t/6243b0c62605c103bf47342e/1648603334072/eyes.png" width='400'/>
 
 The starter code was provided by MIT xPro.
 
