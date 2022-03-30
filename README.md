@@ -2,27 +2,27 @@
 
 ## Description
 
-Exercise on eyes
-<img src= "oneeye.png" width='300'/>
-(minimum of 20 words)
+In this project, the eyes will track and follow in unison the cursor anywhere on the browser window. The eyes were created with CSS and JavaScript was used to track the cursor.
+
+<img src="https://static1.squarespace.com/static/5b75fc7ea9e028d726dbaaa5/t/6243b0c62605c103bf47342e/1648603334072/eyes.png" width='300'/>
 
 The starter code was provided by MIT xPro.
 
 ## How to Run
 
-This is information someone would use to get started running your project on their machine.
+The eyes begin to track upon opening of the web browser window. There are not any additional instructions or steps for the user in order to run this program.
 
 ## Roadmap of Future Improvements
 
-This should be a few sentences describing what you plan to work on next in this repository. 2. License information: This should include information about the MIT license.
+Future improvements will include modifying the JavaScript for the eyes to track in the very middle of the browser window to look cross eyed.
 
 ## Questions or Comments?
 
-Connect with me on Twitter at <https://twitter.com/kristinedugan> or LinkedIn <https://linkedin.com/in/kristinedugan>
+Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](https://linkedin.com/in/kristinedugan).
 
 ## License Information
 
-Some provided materials from the lecture videos and from assignment solutions are used in this project. Some implementations are derived from the provided materials of the course.
+Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
 
 ### MIT License
 
